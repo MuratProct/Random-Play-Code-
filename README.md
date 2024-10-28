@@ -5,6 +5,7 @@
 **Termux Terminal Kodu**
 
 ``git clone https://github.com/MuratProct/Random-Play-Code-.git
+
 cd Random-Play-Code-
 python RandomCode.py``
 
