@@ -10,8 +10,6 @@ cd Random-Play-Code-
 
 python RandomCode.py
 
-*Kopyalayıp Termux'a Yapıştırın 
-
 # Destek & İletişim İçin Tg
 *https://t.me/Crosphp*
 
